@@ -11,7 +11,7 @@
   </div>
    
   <div>
-    <p> I'm a C++, Python, Arduino and HTML programmer. Im also a tech guy. </p>
+    <p> I'm a C++, Python, Arduino and HTML programmer. I also know tech. </p>
   </div>
     
   <div>
